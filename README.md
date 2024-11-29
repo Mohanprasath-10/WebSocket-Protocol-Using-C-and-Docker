@@ -151,9 +151,3 @@ This seamless integration allows real-time updates and dynamic interaction betwe
 4. Open the application in your browser:
    ```bash
    http://localhost:8080
-
-   
-
-
-
-
