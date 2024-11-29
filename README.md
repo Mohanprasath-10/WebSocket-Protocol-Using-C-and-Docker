@@ -76,3 +76,22 @@ This project is a real-time user management system leveraging the **WebSocket pr
    ```bash
    git clone https://github.com/your-repo.git
    cd your-repo
+
+2. Build the Docker image:
+   ```bash
+   docker build -t websocket_user_management .
+
+3. Run the Docker container:
+   ```bash
+   docker run -d -p 8080:8080 websocket_user_management
+
+4. Open the application in your browser:
+   ```bash
+   http://localhost:8080
+
+
+   
+
+
+
+
